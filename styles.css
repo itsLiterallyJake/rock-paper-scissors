@@ -76,3 +76,6 @@ button:hover {
 h4, p {
     color: white;
 }
+#cpu-selection {
+    font-weight: 900;
+}
