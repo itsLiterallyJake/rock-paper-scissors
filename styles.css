@@ -79,3 +79,15 @@ h4, p {
 #cpu-selection {
     font-weight: 900;
 }
+.r-result {
+    margin-bottom: 0px;
+}
+.reset-button {
+    margin-bottom: 20px;
+    background-color: #222;
+    color: orange;
+    border-radius: 0%;
+}
+.reset-button:hover {
+    box-shadow: 0px 0px 3px 3px orange;
+}
